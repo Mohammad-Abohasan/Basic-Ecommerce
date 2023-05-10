@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64
+    },
+    {
+      "title": "Banana",
+      "price": "20",
+      "id": 10
+    },
+    {
+      "title": "Orange",
+      "price": "3",
+      "id": 11
+    }
+  ]
+}
